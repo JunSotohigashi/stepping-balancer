@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJW4350D
+D ユニポーラ方式ステッピングモータドライバ
+F http://akizukidenshi.com/download/ds/njr/njw4350_j.pdf
+$ENDCMP
+#
+#End Doc Library
